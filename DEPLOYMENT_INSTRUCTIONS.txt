@@ -1,0 +1,31 @@
+
+DEPLOYMENT INSTRUCTIONS FOR ELITE PERFORMANCE SYSTEM
+============================================================
+
+This folder contains a complete website for: Elite Performance System
+Revenue Potential: £197 per sale
+
+QUICK DEPLOY OPTIONS:
+
+1. NETLIFY (30 seconds):
+   • Go to app.netlify.com/drop
+   • Drag this entire folder
+   • Site goes live instantly
+
+2. GITHUB PAGES:
+   • Create new repo at github.com/new
+   • Upload all files from this folder
+   • Enable Pages in Settings → Pages
+
+3. VERCEL:
+   • Go to vercel.com/new
+   • Import this folder
+   • Deploy automatically
+
+Revenue Optimization:
+- Target market: The same training and nutrition system used by elite athletes to build lean muscle and burn fat faster than ever.
+- Price point: £197 (was £397)
+- Conversion elements: Testimonials, guarantees, urgency
+
+This is a REAL business ready for immediate revenue generation!
+            
